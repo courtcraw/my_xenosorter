@@ -13,11 +13,9 @@ dataSet[dataSetVersion].options = [
       { name: "Major Antagonist", key: "majant" },
       { name: "Minor Antagonist", key: "minant" },
       { name: "Nopon", key: "nopon" },
-      { name: "BLADE (XCX)", key: "xblade" },
       { name: "Blade (XC2)", key: "2blade" },
       { name: "Hero (XC3)", key: "hero" },
       { name: "Moebius", key: "moebius" },
-      { name: "BLADE (XCXDE)", key: "xblade" },
     ]
   },
   {
@@ -30,12 +28,10 @@ dataSet[dataSetVersion].options = [
       { name: "Xenosaga", key: "XS" },
       { name: "Xenoblade Chronicles", key: "XC" },
       { name: "Future Connected", key: "FC" },
-      { name: "Xenoblade Chronicles X", key: "XCX" },
       { name: "Xenoblade Chronicles 2", key: "XC2" },
       { name: "The Golden Country", key: "TGC" },
       { name: "Xenoblade Chronicles 3", key: "XC3" },
       { name: "Future Redeemed", key: "FR" },
-      { name: "Xenoblade Chronicles X: Definitive Edition", key: "XCXDE" }
     ]
   },
   {
