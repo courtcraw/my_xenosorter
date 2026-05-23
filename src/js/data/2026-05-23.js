@@ -434,15 +434,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Otharon",
-    imgUrls: ["XC-Otharon.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Otharon",
-    opts: {
-      role: ["npc"],
-      series: ["XC"]
-    }
-  },
-  {
     name: "Vanea",
     imgUrls: ["XC-Vanea.png"],
     wiki: "https://www.xenoserieswiki.org/wiki/Vanea",
@@ -632,15 +623,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Roc",
-    imgUrls: ["XC2-Roc.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Roc",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
     name: "Dromarch",
     imgUrls: ["XC2-Dromarch.png"],
     wiki: "https://www.xenoserieswiki.org/wiki/Dromarch",
@@ -688,254 +670,11 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Aegaeon",
-    imgUrls: ["XC2-Aegaeon.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Aegaeon",
-    opts: {
-      role: ["protag", "2blade"],
-      series: ["XC2", "TGC"]
-    }
-  },
-  {
     name: "Pandoria",
     imgUrls: ["XC2-Pandoria.png"],
     wiki: "https://www.xenoserieswiki.org/wiki/Pandoria",
     opts: {
       role: ["protag", "2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Adenine",
-    imgUrls: ["XC2-Adenine.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Adenine",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Agate",
-    imgUrls: ["XC2-Agate.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Agate",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Azami",
-    imgUrls: ["XC2-Azami.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Azami",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Boreas",
-    imgUrls: ["XC2-Boreas.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Boreas",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Dagas",
-    imgUrls: ["XC2-Dagas.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Dagas",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Dahlia",
-    imgUrls: ["XC2-Dahlia.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Dahlia",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Electra",
-    imgUrls: ["XC2-Electra.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Electra",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Finch",
-    imgUrls: ["XC2-Finch.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Finch",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Floren",
-    imgUrls: ["XC2-Floren.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Floren",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Godfrey",
-    imgUrls: ["XC2-Godfrey.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Godfrey",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Gorg",
-    imgUrls: ["XC2-Gorg.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Gorg",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Herald",
-    imgUrls: ["XC2-Herald.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Herald",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Kasandra",
-    imgUrls: ["XC2-Kasandra.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Kasandra",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Kora",
-    imgUrls: ["XC2-Kora.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Kora",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Newt",
-    imgUrls: ["XC2-Newt.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Newt",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Nim",
-    imgUrls: ["XC2-Nim.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Nim",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Perceval",
-    imgUrls: ["XC2-Perceval.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Perceval",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Perun",
-    imgUrls: ["XC2-Perun.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Perun",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Praxis",
-    imgUrls: ["XC2-Praxis.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Praxis",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Sheba",
-    imgUrls: ["XC2-Sheba.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Sheba",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Theory",
-    imgUrls: ["XC2-Theory.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Theory",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Ursula",
-    imgUrls: ["XC2-Ursula.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Ursula",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Vale",
-    imgUrls: ["XC2-Vale.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Vale",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Vess",
-    imgUrls: ["XC2-Vess.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Vess",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Wulfric",
-    imgUrls: ["XC2-Wulfric.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Wulfric",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Zenobia",
-    imgUrls: ["XC2-Zenobia.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Zenobia",
-    opts: {
-      role: ["2blade"],
       series: ["XC2"]
     }
   },
@@ -1000,24 +739,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       role: ["npc"],
       series: ["XC2", "TGC"],
-    }
-  },
-  {
-    name: "Corvin",
-    imgUrls: ["XC2-Corvin.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Corvin",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
-    }
-  },
-  {
-    name: "Crossette",
-    imgUrls: ["XC2-Crossette.png"],
-    wiki: "https://www.xenoserieswiki.org/wiki/Crossette",
-    opts: {
-      role: ["2blade"],
-      series: ["XC2"]
     }
   },
   // The Golden Country
